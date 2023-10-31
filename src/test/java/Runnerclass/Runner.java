@@ -15,7 +15,7 @@ import org.junit.runner.RunWith;
        // tags = " @CustomerLogin"
         //tags = " @Register"
       //  tags = " @ForgotLink"
-        tags = "@test3"
+        tags = "@datatable"
 
         //  plugin = {"pretty","html:/target/cucumber.html","json:/target/cucumber.json","rerun:target/failed.txt"}
 )
